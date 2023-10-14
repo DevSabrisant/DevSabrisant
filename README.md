@@ -1,0 +1,2 @@
+- 👋 Oi, eu sou a Sabrina.
+- 🌱 Eu estou aprendendo programação.
