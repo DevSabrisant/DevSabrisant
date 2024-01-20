@@ -2,9 +2,6 @@
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrina_santanaaa?igsh=MW9obW03bHJ1aDBucA%3D%3D&utm_source=qr)
 
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](700081043356647474)
-[![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199281523157/)
-
 
 ![DevSabrina GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSabrisant&show_icons=true&theme=cobalt)
 
