@@ -1,4 +1,4 @@
-## Oiii, eu sou a Sabrina 
+## Oiii, eu sou a Sabrina Santana, estudande de Análise e Desenvolvimento de Sistemas.
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrina_santanaaa?igsh=MW9obW03bHJ1aDBucA%3D%3D&utm_source=qr)
 
@@ -13,3 +13,4 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
