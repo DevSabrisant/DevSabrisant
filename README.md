@@ -1,14 +1,14 @@
 # Oiii, eu sou a Sabrina Santana! 👋
 
-### 💻 Desenvolvedora Full Stack em evolução
+###  Desenvolvedora Full Stack em evolução
 
 Atualmente focada em **JavaScript**, desenvolvimento web e na construção de projetos próprios.
 
-🌱 Estudando **Node.js, Express e SQL**.
+ Estudando **Node.js, Express e SQL**.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ### Atualmente utilizando
 
@@ -18,7 +18,7 @@ Atualmente focada em **JavaScript**, desenvolvimento web e na construção de pr
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### 🌱 Estudando
+###  Estudando
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -28,9 +28,9 @@ Atualmente focada em **JavaScript**, desenvolvimento web e na construção de pr
 
 ---
 
-# 🚀 Projeto em destaque
+#  Projeto em destaque
 
-## 🍞 Padaroca
+##  Padaroca
 
 Sistema web para gerenciamento de pedidos de uma cafeteria e padaria.
 
@@ -40,15 +40,15 @@ Sistema web para gerenciamento de pedidos de uma cafeteria e padaria.
 
 ---
 
-## 🎮 Outros projetos
+##  Outros projetos
 
-### ⚔️ RPG em JavaScript
+###  RPG em JavaScript
 
 Jogo de RPG desenvolvido em JavaScript.
 
 🔗 [Ver projeto](https://github.com/DevSabrIsant/RPG-em-JavaScript)
 
-### 🕹️ Jogo 2D
+###  Jogo 2D
 
 Jogo 2D desenvolvido em JavaScript.
 
@@ -56,14 +56,6 @@ Jogo 2D desenvolvido em JavaScript.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSabrIsant&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSabrIsant&layout=compact&theme=dark&langs_count=6" />
-</div>
-
----
 
 # 🐍 Minhas contribuições
 
@@ -77,7 +69,7 @@ Jogo 2D desenvolvido em JavaScript.
 
 ---
 
-## 📫 Onde me encontrar
+##  Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sabrina-santana-779307279/">
